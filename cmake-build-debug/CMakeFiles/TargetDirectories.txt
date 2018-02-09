@@ -1,0 +1,3 @@
+/Users/ola/CLionProjects/guesser/Guesser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ola/CLionProjects/guesser/Guesser/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ola/CLionProjects/guesser/Guesser/cmake-build-debug/CMakeFiles/Guesser.dir
